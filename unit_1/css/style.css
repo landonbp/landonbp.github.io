@@ -1,6 +1,5 @@
 body{
-	background-color: orange;
-}
-h1, p {
 	color: blue;
+	background-color: orange;
+	font-family: Arial, sans-serif;
 }
