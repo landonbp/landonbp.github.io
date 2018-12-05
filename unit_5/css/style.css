@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Montserrat');
+
+
+* {
+
+	padding: 0;
+	margin: 0;
+}
+
+#main {
+	background-color: #ffe2b8;
+	border: 1px black solid;
+	padding: 20px;	
+
+}
+
+header {
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+body {
+color: white;
+background-color: black;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-size: 30px;
+width: 90%;
+height: 100%;
+margin: 50px;
+padding: 20px;
+overflow-x: hidden; 
+}
+
+nav {
+background-color: #e8c66a;
+border: 1px black solid;
+padding: 20px;
+color: #white;
+font-family: 'Archivo Black', sans-serif;
+font-size: 40px;
+text-align: center;	
+}
+
+aside {
+background-color: #ffc675;
+border: 1px black solid;
+padding: 20px;
+}
+
+article {
+background-color: #e89c6c;
+border: 1px black solid;
+padding: 20px;
+}
+
+footer {
+background-color: #ff957e;
+border: 1px black solid;
+padding: 20px;
+}
+
+h1 {
+color: #FF8500;
+font-family: 'Archivo Black', sans-serif;
+font-size: 90px;
+padding: 0px;
+text-align: center;
+}
+
+h2 {
+color: #FF8500;
+font-family: 'Archivo Black', sans-serif;
+font-size: 40px;
+text-align: center;		
+}
+
+p {
+
+	
+}
+ul {
+font-family: 'Quattrocento Sans', sans-serif;
+color: #FF8500;
+font-weight: bold;
+font-style: italic;
+font-size: 45px;
+list-style-type: square;
+text-align: center;
+list-style-position: inside;	
+}
+
+li {
+
+	
+}
+img {
+	
+}
